@@ -1,0 +1,11 @@
+# Yüz Tanıma ve Fotoğraf Çekme Uygulaması için Gereklilikler
+
+# OpenCV - Görüntü işleme ve yüz tanıma için
+opencv-python>=4.5.4.60
+
+# NumPy - OpenCV'nin bağımlılığı
+numpy>=1.21.0
+
+# Zaman işlemleri için Python'un dahili time modülü kullanılmaktadır
+# Os işlemleri için Python'un dahili os modülü kullanılmaktadır
+# Bu modüller Python ile birlikte geldiği için ayrıca yüklemeye gerek yoktur
